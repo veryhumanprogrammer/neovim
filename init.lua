@@ -40,6 +40,7 @@ require("plugins")
   vim.opt.wrap = false
   vim.o.relativenumber = true
   vim.o.number = true
+  vim.o.mouse = false
 
 
 --LSP
